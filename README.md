@@ -1,2 +1,2 @@
 # diplomadoweb
-this repository contains mys codes of the diplomado
+this repository contains my codes of the diplomado
